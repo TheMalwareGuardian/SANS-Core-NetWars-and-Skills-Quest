@@ -19,9 +19,9 @@
 ## 📸 Highlights
 
 <p align="center">
-	<img src="../Images/Illustrations/CoreNetWarsEuropeApril2026_Coin.png">
+	<img src="../Images/Illustrations/CoreNetWarsEuropeApril2026_Coin.jpg">
 </p>
 
 <p align="center">
-	<em>SANS Coin awarded to top performers (Shipping)</em>
+	<em>SANS Coin awarded to top performers</em>
 </p>
